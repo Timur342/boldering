@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+header img{
+    width: 100%;
+  height: auto;
+}
+main a{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-decoration: none; 
+    border-bottom: 5px solid #000000;
+    color: black;
+    font-size: 24px;
+}
+
+h1{
+    text-align: center;
+    font-size: 64px;
+}
+ img{
+  margin-left: 80px;
+    margin-right:80px;
+    border-left: 10px dotted;
+}
+main p{
+    text-align:left;
+    padding: 10px;
+    margin-left: 45px;
+    margin-right: 45px;
+    font-size: 24px;
+    border: 1px solid #000000;
+    border-radius: 30px;
+}
+p a{
+    text-decoration: none;
+    color: blue;
+    border-bottom: 1px solid blue;
+}
+footer p{
+    font-size: 24px;
+  border: 10px solid black;
+  margin: auto;
+  padding: 10px;
+}
